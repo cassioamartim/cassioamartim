@@ -15,13 +15,6 @@
   <li>🔧 Intellij IDEA | Git</li>
 </ul>
 
-<h3>📁 Projects</h3>
-  
-<ul>
-  <li><a href="https://github.com/cassioamartim/todo">ToDo List (Ignite)</a></li>
-  <li><a href="https://github.com/cassioamartim/feedget">Feedget (Ignite)</a></li>
-</ul>
-
 <h3>👥 Connect With Me</h3>
   
 <ul>
