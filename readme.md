@@ -25,4 +25,4 @@
   </li>
 </ul>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassioamartim&langs_count=12&layout=compact&theme=dark" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassioamartim&langs_count=12&layout=compact&theme=dark" align="left">
