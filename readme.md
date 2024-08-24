@@ -1,5 +1,5 @@
 <h1 align="center">Voltar atrás nunca foi uma opção.</h1>
-<h3 align="center">Me chamo Cássio. Tenho 16 anos. Sou apaixonado por programação desde os meus 12 anos de idade. Trabalhando atualmente com Java, atuando na área de desenvolvedor back-end.</h3>
+<h3 align="center">Me chamo Cássio. Tenho 17 anos. Sou apaixonado por programação desde os meus 12 anos de idade. Trabalhando atualmente com Java, atuando na área de desenvolvedor back-end.</h3>
 
 ##
 
